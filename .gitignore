@@ -1,0 +1,22 @@
+##** Jupyter Notebooks **##
+*.DS_Store
+
+##** R Files **##
+.Rproj.user
+*.Rhistory
+
+*.html
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.pdf
+*.org
+\#*\#
+notes/auto/*
+.\#*
+*.ipynb_checkpoints/
+*.fdb_latexmk
+*.fls
+junk
+bdims.RData
